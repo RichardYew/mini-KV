@@ -27,6 +27,16 @@ go.work.sum
 # env file
 .env
 
+# Runtime data & binaries
+/data.json
+test_*.json
+*.tmp
+/yewkv
+/bin/
+
+# Logs
+*.log
+
 # Editor/IDE
 # .idea/
 # .vscode/
